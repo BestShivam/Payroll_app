@@ -1,16 +1,25 @@
-# payroll_app
+# 💼 payroll_app
 
-A new Flutter project.
+A Flutter-based Payroll Management Application that simplifies employee salary tracking, management, and payroll generation with a clean UI and responsive layout.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+| Contract Page | Dashboard | Contract |
+|------------|-----------|------------------|
+| ![Login](https://github.com/user-attachments/assets/706481be-3183-444e-aafd-9ba6f9ca1d58) |![Dashboard](https://github.com/user-attachments/assets/2694b807-9c37-496d-905b-4f83f1c566d6) | ![Details](https://github.com/user-attachments/assets/f6a3ccae-baa6-4a3c-86fd-c6ea6b8afb30) |
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Framework:** Flutter
+- **Language:** Dart
+- **Architecture:** MVVM (or your architecture if different)
+- **State Management:** (e.g. Provider, Riverpod, Bloc – specify if used)
+
+## 🧑‍💻 Getting Started
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/yourusername/payroll_app.git
+cd payroll_app
