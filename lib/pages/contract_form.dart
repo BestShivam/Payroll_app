@@ -36,7 +36,7 @@ class _ContractFormState extends State<ContractForm> {
   Widget build(BuildContext context) {
     return  Scaffold(
       backgroundColor: Colors.white,
-        appBar: AppBar(title: Text("Date Picker Field"),
+        appBar: AppBar(title: Text("Contract Form"),
         backgroundColor: Colors.white,),
         body:  Padding(
           padding:  EdgeInsets.all(16.0),
